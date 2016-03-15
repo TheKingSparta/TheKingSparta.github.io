@@ -3,12 +3,12 @@ body {
 	color: teal;
 	background-color: black;
 	text-shadow: 2px 2px 5px blue;
-	font-size: 20px;
+	font-size: 25px;
 }
 
 p.Spartan{
 	font-weight: 900;
-	font-size: 24px;
+	font-size: 32px;
 }
 
 p.Fact{
@@ -20,5 +20,5 @@ p.Fact{
 
 p.important{
 	font-weight: 900;
-	font-size: 30px;
+	font-size: 32px;
 }
