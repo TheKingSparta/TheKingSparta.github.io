@@ -1,0 +1,18 @@
+body {
+	font-family: "Lucida Console", "Lucida Sans Typewriter", sans-serif;
+	color: teal;
+	background-color: black;
+	text-shadow: 2px 2px 5px blue;
+}
+
+p.Spartan{
+	font-weight: 900;
+	font-size: 20px;
+}
+
+p.Fact{
+	font-weight: 900;
+	font-size: 36px;
+	text-shadow: 2px 2px 5px red;
+	text-align: center;
+}
