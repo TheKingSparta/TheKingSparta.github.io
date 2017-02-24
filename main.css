@@ -20,3 +20,31 @@ a:hover , a:active, a:focus{
 	color: #00A30D;
 	text-decoration: underline;
 }
+#navbar {
+	text-decoration: none;
+	list-style-type: none;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+
+}
+#navbar li {
+	text-decoration: none;
+	list-style-type: none;
+	display: inline;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	font-size: large;
+
+}
