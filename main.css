@@ -5,5 +5,18 @@ body {
 	text-align: center;
 }
 a {
-	color: #662288;	
+	color: #018F57;
+	text-decoration: none;
+}
+a:link {
+	color: #018F57;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #386B57;
+}
+a:hover , a:active, a:focus{
+	color: #00A30D;
+	text-decoration: underline;
 }
