@@ -5,19 +5,20 @@ body {
 	text-align: center;
 }
 a {
-	color: #018F57;
+	color: #0061ff;
 	text-decoration: none;
 }
 a:link {
-	color: #018F57;
+	color: #0061ff;
 	text-decoration: none;
 }
 
 a:visited {
-	color: #386B57;
+	color: #004ac4;
+	text-decoration: none;
 }
 a:hover , a:active, a:focus{
-	color: #00A30D;
+	color: #116bff;
 	text-decoration: underline;
 }
 #navbar {
