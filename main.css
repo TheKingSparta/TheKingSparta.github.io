@@ -3,6 +3,7 @@ body {
 	background-color: black;
 	color: #ffffff;
 	text-align: center;
+	font-size: 30px;
 }
 a {
 	color: #0061ff;
@@ -47,5 +48,8 @@ a:hover , a:active, a:focus{
 	padding-bottom: 0px;
 	padding-left: 0px;
 	font-size: large;
-
+	border:
+}
+button {
+	border: 1px, solid, #666666
 }
